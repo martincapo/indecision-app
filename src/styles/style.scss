@@ -1,3 +1,9 @@
-* {
-  color: red;
-}
+@import './base/settings';
+@import './base/base';
+@import './components/modal';
+@import './components/add-option';
+@import './components/button';
+@import './components/header';
+@import './components/container';
+@import './components/widget';
+@import './components/option';
